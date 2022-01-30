@@ -1,0 +1,7 @@
+D:\workplace\AutDevTest\AutDevTest\bin\Debug\AutDevTest.exe.config
+D:\workplace\AutDevTest\AutDevTest\bin\Debug\AutDevTest.exe
+D:\workplace\AutDevTest\AutDevTest\bin\Debug\AutDevTest.pdb
+D:\workplace\AutDevTest\AutDevTest\obj\Debug\AutDevTest.csprojAssemblyReference.cache
+D:\workplace\AutDevTest\AutDevTest\obj\Debug\AutDevTest.csproj.CoreCompileInputs.cache
+D:\workplace\AutDevTest\AutDevTest\obj\Debug\AutDevTest.exe
+D:\workplace\AutDevTest\AutDevTest\obj\Debug\AutDevTest.pdb
